@@ -1,0 +1,33 @@
+h1{
+    color:#34495E ;
+    margin: 30px 30px;
+}
+
+p{
+    margin: 40px auto;
+    padding: 10px 30px;
+    width: 90%;
+}
+
+.text1{
+    background-color: #3498DB;
+}
+.text2{
+    background-color: #8E44AD;
+}
+.text3{
+    background-color: #16A085;
+}
+
+.links{
+    margin: 0 30px;
+}
+.links a{
+    text-decoration: none;
+}
+
+.links img{
+    width: 100px;
+    height: 100px;
+    padding: 0 10px;
+}
